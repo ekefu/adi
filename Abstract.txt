@@ -1,0 +1,15 @@
+Since the earliest event in the year 1949, vehicle ramming attacks (VRAs) caused over 400 fatalities and over 2100 injuries worldwide.
+One effective measure to avoid VRAs is the use of physical separation of the road surface and the pedestrian area via Vehicle Security Barriers (VSB) in form of massive concrete blocks or retractable bollards. 
+Even though helpful, these passive, location-specific solutions cannot avoid VRAs completely as these attacks can happen at any location. 
+A location-independent solution can only be designed as an integral part of the vehicle system, so that the vehicle carries the solution together with itself to all places.
+An unexplored measure to avoid the VRAs is to inhibit the buildup of an unreasonable amount of kinetic energy at the suspicion of a malicious intent of the driver.
+In this work, we propose and analyze an active in-vehicle system that inhibits a VRA at its onset.
+
+
+Keywords: 
+vehicle ramming attacks,
+driver intent detection, 
+vehicle acceleration control, 
+pedestrian safety, 
+threat analysis, 
+system integrity
