@@ -1,3 +1,5 @@
+Authors: Furkan Eke, Ishaan Khanna, Gokhan Gocmen
+
 # adi
 Amok Drive Inhibition System
 This repository contains the work products of a system to mitigate vehicle ramming attacks by means of an in-vehicle system.
